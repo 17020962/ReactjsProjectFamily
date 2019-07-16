@@ -1,0 +1,12 @@
+[2019-07-13 02:14:38.349] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/media/tran/TaiLieu/ReactJS/family-blog/.vscode'
+[2019-07-13 02:14:38.349] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/media/tran/TaiLieu/ReactJS/family-blog/.vscode'
+[2019-07-13 02:15:08.286] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-07-13 02:15:08.297] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-07-13 02:18:06.156] [renderer1] [error] URI malformed: URIError: URI malformed
+	at decodeURIComponent (<anonymous>)
+	at Function.parse (/snap/code/11/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:122:199)
+	at t.createConverter.e (/snap/code/11/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:179835)
+	at n (/snap/code/11/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:179866)
+	at L (/snap/code/11/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:185318)
+	at Array.map (<anonymous>)
+	at asDocumentLinks (/snap/code/11/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:188904)
